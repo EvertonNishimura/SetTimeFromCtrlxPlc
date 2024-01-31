@@ -1,0 +1,6 @@
+!GlobalState
+assets:
+  build-packages: []
+  build-snaps:
+  - core20=2015
+  required-grade: stable

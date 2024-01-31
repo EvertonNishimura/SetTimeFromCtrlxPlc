@@ -1,0 +1,15 @@
+LICENSE
+README.md
+main.py
+setup.cfg
+setup.py
+alldataprovider/__init__.py
+alldataprovider/nodeManagerAllData.py
+alldataprovider/providerNodeAllData.py
+alldataprovider/restApi.py
+helper/ctrlx_datalayer_helper.py
+sdk_py_provider_alldata.egg-info/PKG-INFO
+sdk_py_provider_alldata.egg-info/SOURCES.txt
+sdk_py_provider_alldata.egg-info/dependency_links.txt
+sdk_py_provider_alldata.egg-info/requires.txt
+sdk_py_provider_alldata.egg-info/top_level.txt

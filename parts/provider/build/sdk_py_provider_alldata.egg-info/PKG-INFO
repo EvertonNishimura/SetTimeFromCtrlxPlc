@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: sdk-py-provider-alldata
+Version: 2.4.0
+Summary: From setup.py: ctrlX Data Layer provider in Python publishing nodes of all data types
+Author: SDK Team
+License: Copyright (c) 2020-2022 Bosch Rexroth AG, Licensed under MIT License
+License-File: LICENSE
+Requires-Dist: ctrlx-datalayer
+Requires-Dist: ctrlx-fbs

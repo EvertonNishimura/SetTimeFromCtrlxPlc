@@ -1,0 +1,37 @@
+!PullState
+assets:
+  build-packages: !!set {}
+  build-snaps: !!set {}
+  source-details: null
+  stage-packages:
+  - ctrlx-datalayer=1.10.7
+  - libnorm1=1.5.8+dfsg2-2build1
+  - libpgm-5.2-0=5.2.122~dfsg-3ubuntu1
+  - libsodium23=1.0.18-1
+  - libzmq5=4.3.2-2ubuntu1
+extracted_metadata:
+  files: []
+  metadata: !ExtractedMetadata
+    _data: {}
+    common_id_list: []
+project_options:
+  deb_arch: amd64
+properties:
+  override-pull: snapcraftctl pull
+  parse-info: []
+  plugin: python
+  source: .
+  source-branch: ''
+  source-commit: ''
+  source-depth: 0
+  source-subdir: ''
+  source-submodules: null
+  source-tag: ''
+  source-type: ''
+  stage-packages:
+  - libzmq5
+  - ctrlx-datalayer
+schema_properties: {}
+scriptlet_metadata: !ExtractedMetadata
+  _data: {}
+  common_id_list: []

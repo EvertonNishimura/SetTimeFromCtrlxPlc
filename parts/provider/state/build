@@ -1,0 +1,33 @@
+!BuildState
+assets:
+  installed-packages: []
+  installed-snaps:
+  - core20=2015
+  - core22=1033
+  - go=10489
+  - lxd=24061
+  - sdk-py-provider-alldata=x1
+  - set-time=x1
+  - snapcraft=10436
+  - snapd=20290
+  - ubuntu-image=702
+  uname: 'Linux 5.4.0-170-generic #188-Ubuntu SMP Wed Jan 10 09:51:01 UTC 2024 x86_64
+    x86_64 x86_64 GNU/Linux'
+extracted_metadata:
+  files: []
+  metadata: !ExtractedMetadata
+    _data: {}
+    common_id_list: []
+project_options:
+  deb_arch: amd64
+properties:
+  after: []
+  build-attributes: []
+  build-packages: []
+  disable-parallel: false
+  organize: {}
+  override-build: snapcraftctl build
+schema_properties: {}
+scriptlet_metadata: !ExtractedMetadata
+  _data: {}
+  common_id_list: []
